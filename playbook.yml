@@ -1,9 +1,0 @@
----
-
-- hosts: target
-
-  become: yes
-
-  roles:
-
-  - mywebpage
